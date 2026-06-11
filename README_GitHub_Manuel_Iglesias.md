@@ -1,4 +1,4 @@
-# Hi, I'm Manuel Iglesias 👋
+# Hi, I'm Manuel 👋
 
 ## About Me
 
@@ -32,7 +32,6 @@
 ### Tools
 - Git
 - GitHub
-- Microsoft Office
 
 ## Current Goals
 
